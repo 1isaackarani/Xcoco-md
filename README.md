@@ -1,8 +1,10 @@
 <p align = center>   <img src="https://telegra.ph/file/ea03bc4a211adef6577cc.jpg" /> </p>
 
+
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=TᕼE+ᗷOT+ᑕᖇEᗩTEᗪ+ᗷY+KᗩᒪIᑎᗪᑌ+😇" alt="">
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Mr-Katussa/Xcoco/fork)
+- FORK THE REPOSITORY [Here](https://github.com/MR-KAPAYA/Xcoco-md/fork)
 
 ## `⨷ SCAN QR`
 [![Xcoco Md](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mr-Katussa/XCOCO-QR)
@@ -20,7 +22,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-Katussa/Xcoco/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-KAPAYA/Xcoco-md/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -31,7 +33,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Mr-Katussa/Xcoco
+git clone https://github.com/MR-KAPAYA/Xcoco-md
 cd Xcoco
 npm start
 ```
