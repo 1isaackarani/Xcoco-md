@@ -17,14 +17,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94758179948'] //ur owner number
 global.ownername = "REAL KALIDUWA OFC" //ur owner name
 global.ytname = "YT: dukka productions" //ur yt chanel name
-global.socialm = "GitHub: KALIDUWA" //ur github or insta name
+global.socialm = "GitHub: MR-KAPAYA" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "94758179948" //ur number
 global.premium = ['94758179948'] //ur premium number
 global.botname = 'KALIDU-MD-BOT' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
+global.themeemoji = "🍁" //ur theme emoji
 global.packname = "Sticker By KALIDU-MD-BOT" //ur sticker watermark packname
 global.author = "KALIDUWA" //ur sticker watermark author
 global.wm = "KALIDUWA OFC" //ur watermark
