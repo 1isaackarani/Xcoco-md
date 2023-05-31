@@ -7,7 +7,7 @@
 - FORK THE REPOSITORY [Here](https://github.com/MR-KAPAYA/Xcoco-md/fork)
 
 ## `⨷ SCAN QR`
-[![Xcoco Md](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mr-Katussa/XCOCO-QR)
+[![Xcoco Md](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@REALKALIDU/XCOCO-QR)
 
  ` BUILDPACKS`
 
